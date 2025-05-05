@@ -44,7 +44,9 @@ This project is built with .
 
 Replace the path of ChatInterface. tsx: 226 with your own backend database query URL (stream return).
 
-FrontendDemo.exe is an example of backend adaptation for this project. The backend has already processed cross domain requests, so there is no need to configure CORS separately for this frontend.
+FrontendDemo.exe is an example of backend adaptation for this project. The backend for this original code has already processed cross domain requests, so there is no need to configure CORS separately for this frontend.
+
+**But you need to adaptation your own backend (DataBase, vector query, LLM) for this frontend projct.**
 
 # This Project Based on a Lovable Static Project project 
 
