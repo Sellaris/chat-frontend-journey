@@ -48,7 +48,7 @@ FrontendDemo.exe is an example of backend adaptation for this project. The backe
 
 **But you need to adaptation your own backend (DataBase, vector query, LLM) for this frontend projct.**
 
-# This Project Based on a Lovable Static Project project 
+# This Project Based on a Lovable Static Project
 
 ## Origin Project(Static Page) info
 
